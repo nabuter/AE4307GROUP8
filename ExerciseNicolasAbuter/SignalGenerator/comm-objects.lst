@@ -1,0 +1,7 @@
+# this file contains a list of all communicated objects needed by this 
+# specific module
+# specify these with the .dco extension, examples:
+# ExerciseNicolasAbuter/comm-objects/MyDataObject.dco
+# Generic/comm-objects/PrimaryControls.dco
+ExerciseNicolasAbuter/comm-objects/SignalStream.dco
+ExerciseNicolasAbuter/comm-objects/DisplayColourEvent.dco
