@@ -1,0 +1,5 @@
+(Type bool)
+
+(Event DisplayColourEvent
+	(bool dayornight)	
+)
