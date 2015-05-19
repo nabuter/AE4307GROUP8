@@ -1,0 +1,9 @@
+# this file contains a list of all communicated objects needed by this 
+# specific module
+# specify these with the .dco extension, examples:
+# SimCourse2015/comm-objects/MyDataObject.dco
+# Generic/comm-objects/PrimaryControls.dco
+SimCourse2015/comm-objects/PrimaryControls.dco
+SimCourse2015/comm-objects/SecondaryControls.dco
+SimCourse2015/comm-objects/PrimarySwitches.dco
+SimCourse2015/comm-objects/SecondarySwitches.dco

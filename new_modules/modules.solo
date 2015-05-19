@@ -1,0 +1,15 @@
+# this file contains a list of all modules needed for your application
+# on a specific machine
+# note that the comm-objects directories should not be listed here
+# example:
+# G8/some-module
+
+G8/F16HUD 
+G8/gui-stick 
+G8/multi-stick 
+G8/RigidBody 
+G8/Controller 
+G8/Dynamics 
+G8/WorldViewAdapter 
+G8/DataLogger 
+G8/WorldViewer 
